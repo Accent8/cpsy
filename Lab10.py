@@ -92,8 +92,6 @@ show("B:{} W:{}".format(black_avg, white_avg),
      "Press to start")
 wait_for_press()
 
-# --- Line following (proportional ping-pong) ---
-
 turning_left = True
 on_line = False
 
